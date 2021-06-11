@@ -1,7 +1,6 @@
 - Hi, I’m Brayan Puentes a young man passionate about programming and software development.
 - I’m a Fullstack Developper.
 - Skills :
-<img src="https://m.media-amazon.com/images/I/61G+sXwUoqL._SS500_.jpg"> </img>
 - HTML, CSS, JS, REACT, NODE JS, MONGODB, XPRESS, GIT/GITHUB
 
 <!---
