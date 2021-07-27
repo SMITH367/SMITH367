@@ -1,5 +1,5 @@
 - Hi, I’m Brayan Puentes a young man passionate about programming and software development.
-- I’m a Fullstack Javascript Developper.
+- I’m a Developper.
 - Skills :
 - Front-end: HTML, CSS, JS.
 
