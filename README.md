@@ -2,7 +2,7 @@
 - I’m a FullStack Developer.
 - Skills :
 - Front-end: HTML, CSS, JS, React.
-- Backe end: Node js, ExpressJs, Java, Mysql.
+- Backe end: Node js, ExpressJs, Java, Springboot, Mysql, MongoDb.
 - Main Stack: MERN
 <!---
 SMITH367/SMITH367 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
