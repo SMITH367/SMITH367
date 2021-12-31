@@ -1,7 +1,7 @@
 - Hi, I’m Brayan Puentes a young man passionate about programming and software development.
 - I’m a FullStack Developer.
 - Skills :
-- Front-end: HTML, CSS, JS.
+- Front-end: HTML, CSS, JS, React.
 - Back end: Node js, ExpressJs, Java springboot, Mysql, mongoDB.
 
 <!---
