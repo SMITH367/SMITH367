@@ -1,8 +1,10 @@
 - Hi, I’m Brayan Puentes a young man passionate about programming and software development.
 - I’m a FullStack Developer.
 - Skills :
-- Front-end: HTML, CSS, JS, React.
-- Back end: Node js, ExpressJs, PHP, Laravel, Mysql, mongoDB.
+- Front-end: HTML, CSS, Tailwind, JS, React Js.
+- Back end: Node js, ExpressJs, Nest Js, Mysql, mongoDB.
+- Mobile: React Native.
+- Others: Python, C++, git, jira. 
 
 <!---
 SMITH367/SMITH367 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
