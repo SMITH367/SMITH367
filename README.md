@@ -4,7 +4,7 @@
 - Front-end: HTML, CSS, Tailwind, JS, React Js.
 - Back end: Node js, ExpressJs, Nest Js, Mysql, mongoDB.
 - Mobile: React Native.
-- Others: Python, C++, git, jira. 
+- Others: Typescript, Python, C++, Git, Scrum jira. 
 
 <!---
 SMITH367/SMITH367 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
