@@ -2,7 +2,7 @@
 - I’m a FullStack Developer.
 - Skills :
 - Front-end: HTML, CSS, Tailwind, JS, React Js.
-- Back end: Node js, ExpressJs, Nest Js, Mysql, mongoDB.
+- Back end: Node js, ExpressJs, Nest Js, php/Laravel, Mysql, mongoDB.
 - Mobile: React Native.
 - Others: Typescript, Python, C++, Git, Scrum, jira. 
 
