@@ -1,7 +1,7 @@
 - Hi, I’m Brayan Puentes, sistems engineer with more than 2 years of experience, a passionate about programming and software engineering.
 - I’m a FullStack Developer.
 - Skills :
-- Front-end: HTML, CSS, Tailwind, JS, React Js.
+- Front-end: HTML, CSS, Tailwind, JS, React Js, Angular Js.
 - Back end: Node js, ExpressJs, Nest Js, php/Laravel, Mysql, mongoDB.
 - Mobile: React Native.
 - Others: Typescript, Python, C++, Git, Scrum, jira. 
