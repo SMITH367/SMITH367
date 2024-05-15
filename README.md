@@ -1,4 +1,4 @@
-- Hi, I’m Brayan Puentes, sistems engineer with more than 2 years of experience, a passionate about programming and software engineering.
+- Hi, I’m Brayan Puentes, systems engineer with more than 2 years of experience, a passionate about programming and software engineering.
 - I’m a FullStack Developer.
 - Skills :
 - Front-end: HTML, CSS, Tailwind, JS, React Js, Angular Js.
