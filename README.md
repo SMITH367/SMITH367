@@ -4,6 +4,7 @@
 - Front-end: HTML, CSS, Tailwind, JS, React Js, Angular Js.
 - Back end: Node js, ExpressJs, Nest Js, php/Laravel, MySQL-PostgreSQL, mongoDB.
 - Mobile: React Native.
+- Cloud: AWS, Linux
 - Others: Typescript, Python, C++, Git, Scrum, jira. 
 
 <!---
